@@ -2,7 +2,7 @@
 - 👀 I’m interested in progressing with Github, teraform, python - DevSecOps!
 - 🌱 I’m currently learning DevSecOPS
 
-- 📫 How to reach me: PR
+- 📫 How to reach me: PR this file :) 
 
 
 <!---
